@@ -1,0 +1,5 @@
+Method svm linear has highest accuracy
+Methods svm linear, norm 1 have NO significant difference in accuracy
+Methods svm linear, svm rbf have NO significant difference in accuracy
+Methods svm linear, norm 1 have significant difference in runtime
+Methods svm linear, svm rbf have significant difference in runtime

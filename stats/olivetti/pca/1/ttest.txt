@@ -1,0 +1,15 @@
+Test sizes 0.3, 0.2 have NO significant difference for n_components=1
+Test sizes 0.4, 0.3 have NO significant difference for n_components=1
+Test sizes 0.5, 0.2 have NO significant difference for n_components=1
+Test sizes 0.5, 0.3 have NO significant difference for n_components=1
+Test sizes 0.3, 0.2 have NO significant difference for n_components=2
+Test sizes 0.4, 0.2 have NO significant difference for n_components=2
+Test sizes 0.4, 0.3 have NO significant difference for n_components=2
+Test sizes 0.5, 0.2 have NO significant difference for n_components=2
+Test sizes 0.5, 0.3 have NO significant difference for n_components=2
+Test sizes 0.5, 0.4 have NO significant difference for n_components=2
+Test sizes 0.3, 0.2 have NO significant difference for n_components=5
+Test sizes 0.4, 0.3 have NO significant difference for n_components=5
+Test sizes 0.3, 0.2 have NO significant difference for n_components=10
+Test sizes 0.3, 0.2 have NO significant difference for n_components=100
+Test sizes 0.3, 0.2 have NO significant difference for n_components=150

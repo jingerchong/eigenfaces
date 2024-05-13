@@ -1,0 +1,10 @@
+Num components 21, 18 have NO significant difference for test_size=0.2
+Num components 21, 20 have NO significant difference for test_size=0.2
+Num components 21, 22 have NO significant difference for test_size=0.2
+Num components 21, 23 have NO significant difference for test_size=0.2
+Num components 21, 24 have NO significant difference for test_size=0.2
+Num components 21, 25 have NO significant difference for test_size=0.2
+Num components 21, 28 have NO significant difference for test_size=0.2
+Num components 21, 30 have NO significant difference for test_size=0.2
+Num components 21, 42 have NO significant difference for test_size=0.2
+Num components 21, 46 have NO significant difference for test_size=0.2
